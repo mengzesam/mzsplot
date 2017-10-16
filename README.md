@@ -1,6 +1,8 @@
 # mzsplot
 data trend plot with python
-modules：xlwings，matplotlib，numpy
+modules：xlwings，matplotlib，numpy；from PyQt4 import QtCore, QtGui
+
+package:pyinstaller
 
 1、mzsplot文件夹与mzsplot.xlsm放在同一个文件夹，确保文件夹路径不能为中文
 
